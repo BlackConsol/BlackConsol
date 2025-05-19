@@ -206,23 +206,6 @@
 
 
 
-
-
-
-<blockquote>
-  “La seguridad no es un producto, sino un proceso.” — Bruce Schneier
-</blockquote>
-
-<p>Para instalar, ejecuta <code>npm install</code> en tu consola.</p>
-<img src="https://skillicons.dev/icons?i=python,java,html,css,cpp" />
-
-<ul>
-  <li>Python</li>
-  <li>Java</li>
-  <li>C++</li>
-</ul>
-
-
     
 </body>
 </html>
