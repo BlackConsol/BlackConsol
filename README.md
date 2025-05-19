@@ -157,6 +157,9 @@
 <br>
 <h2 align="center">👨‍💻 Tecnologias conocidas</h2>
 
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,git,github,vs,idea,netbeans,kalilinux,kali,linux,ps,supabase,vercel,windows" />
+</div>
 
 
 </br>
