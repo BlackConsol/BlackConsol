@@ -54,7 +54,7 @@
 
 <p align="left">CIBERSEGURIDAD</p>
 
-<p align="left">
+<p align="left" width="300">
   <img src="https://img.shields.io/badge/Ethical_Hacking-gray?style=for-the-badge&logo=kalilinux&logoColor=white" />   
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/OSINT-INVESTIGATION-orange?style=for-the-badge" />
@@ -63,7 +63,8 @@
   <img src="https://img.shields.io/badge/Inteligencia_Artificial-5c2d91?style=for-the-badge&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/Redes-0d47a1?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Investigación-8e24aa?style=for-the-badge&logo=academia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco%20Cybersecurity-0074CC?style=for-the-badge&logo=cisco&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Cisco%20Cybersecurity-0074CC?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-007ACC?style=for-the-badge&logo=wireshark&logoColor=white" />  
 </p>
 
 
