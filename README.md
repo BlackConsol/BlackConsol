@@ -168,9 +168,7 @@
 
 </br>
 
-
-
-<br><br>
+<br>
 <h2 align="center">👨‍💻 Tecnologias conocidas</h2>
 
 <div align="center">
