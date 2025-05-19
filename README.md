@@ -60,7 +60,8 @@
   <img src="https://img.shields.io/badge/OSINT-darkgreen?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Inteligencia_Artificial-5c2d91?style=for-the-badge&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/Redes-0d47a1?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Investigación-8e24aa?style=for-the-badge&logo=academia&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Investigación-8e24aa?style=for-the-badge&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco%20Cybersecurity-0074CC?style=for-the-badge&logo=cisco&logoColor=white" />  
 </p>
 
 
@@ -70,6 +71,20 @@
 
 
 </br>    
+
+
+
+
+<br>
+<h1 align="center">Mi coleccion de Badges</h1>
+  <img src="https://img.shields.io/badge/Introduction%20to%20Cybersecurity-0074CC?style=for-the-badge&logo=cisco&logoColor=white" />  
+</br>
+
+
+
+
+
+
 
 
 <blockquote>
