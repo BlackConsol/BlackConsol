@@ -12,7 +12,7 @@
 <h1 align="center">Hola 👋  soy BlackConsole / Aka. 0087x86 🕵️ </h1> 
 <p align="center"></p>Hola bienvenidos a mi perfil de github, aqui encontraras todo sobre mi tambien podras visualizar mis proyectos</p>
 
-![DialogFlow](https://img.shields.io/badge/Cybersecurity-0A0A0A?style=for-the-badge&logo=protonmail&logoColor=white)
+![DialogFlow](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![DialogFlow](https://img.shields.io/badge/Cybersecurity-0A0A0A?style=for-the-badge&logo=protonmail&logoColor=white)
 </br>
 
 <br>
