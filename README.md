@@ -164,13 +164,13 @@
 <br>
 <h1 align="center">Mi coleccion de Badges</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Introduction%20to%20Cybersecurity-0074CC?style=for-the-badge&logo=cisco&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Introduction%20to%20Cybersecurity-0074CC?style=for-the-badge&logo=cisco&logoColor=white" width="300" />  
 </p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Python%20Essentials%20-Cisco%20Networking%20Academy-blue?logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/Python%20Essentials%20-Cisco%20Networking%20Academy-blue?logo=python&logoColor=white" width="300" />
 </p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Redes%20Cisco-Packet%20Tracer%20Certified-blue?logo=cisco&logoColor=white">
+    <img src="https://img.shields.io/badge/Redes%20Cisco-Packet%20Tracer%20Certified-blue?logo=cisco&logoColor=white" width="300" />
 </p>
 
 </br>
