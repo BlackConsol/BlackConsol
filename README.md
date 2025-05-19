@@ -39,7 +39,7 @@
 
 
 <br>
-<h1 align="center">Habilidades Tecnicas</h1>
+<h1 align="center">Habilidades Tecnicas 📄</h1>
 
 <p align="left">👨‍💻 Lenguajes de Programacion y Etiquetas</p>
 
@@ -84,7 +84,7 @@
 
 
 <br>
-<h1 align="center">Aprendizaje</h1>
+<h1 align="center">Aprendizaje 📚</h1>
 
 <p align="left">El aprendizaje se fundamenta en la práctica constante y el entrenamiento diario. Mantenerse firme en este proceso es esencial, pues rendirse no es una opción cuando se persigue la excelencia. La perseverancia diaria fortalece las habilidades y el carácter, convirtiendo el esfuerzo en éxito tangible.</p>
 <p align="left">Para ello debes establecer una rutina y hoy estoy para eso para poderte guiar con una rutina que me ha servido mucho</p>
@@ -150,12 +150,16 @@
 </ol>
 
     
+</br>
 
+
+
+<br>
+<h2 align="center">👨‍💻 Tecnologias conocidas</h2>
 
 
 
 </br>
-
 
 
 
