@@ -68,6 +68,7 @@
   <img src="https://img.shields.io/badge/Wireshark-007ACC?style=for-the-badge&logo=wireshark&logoColor=white" />  
   <img src="https://img.shields.io/badge/Herramientas%20Avanzadas%20de%20Ciberseguridad-008080?style=for-the-badge&logo=securityscorecard&logoColor=white" />
   <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white" />  
 </p>
 </br>    
 
