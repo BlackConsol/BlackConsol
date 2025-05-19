@@ -29,19 +29,22 @@
 <p align="left">🖥️👾Ingenieria en Sistemas</p>
 <p align="left">📌Me gusta programar en Python, C++ y Java</p>
 <p align="left">🐍Mis lenguaje favorito es Python</p>
-<p align="left">🙋‍♂️roles en el ámbito: desarrollador junior, líder, cofundador, emprendedor, programador junior y en un futuro quién sabe 🧐 </p>
+<p align="left">🙋‍♂️Roles en el ámbito: desarrollador junior, líder, cofundador, emprendedor, programador junior y en un futuro quién sabe 🧐 </p>
 
 <div align="center">
-
 <img src="https://img.shields.io/badge/-Rendirse%20no%20es%20una%20opcion-blue?style=for-the-badge" width="310"/>
-
-
 </div>
 
 </br>
 
 
 <br>
+<h1 align="center">Habilidades tecnicas</h1>
+
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" align="center"/> 
+
+
 
 
 
