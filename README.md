@@ -15,9 +15,7 @@
 
 <br>
 <h1 align="center">Sobre mi 🕵️</h1>
-<p align="left"> 
-🤖 Ethical Hacker
-</p>
+<p align="left"> 🤖 Ethical Hacker </p>
 <p align="left">🎭 Ciberseguridad </p>
 <p align="left"> <strong>🕵️ Me gusta la recoleccion de fuentes abiertes - OSINT</strong></p>
 <p align="left">🖥️👾Ingenieria en Sistemas</p>
