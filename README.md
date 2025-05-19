@@ -96,10 +96,10 @@
     </p>
 
 <li>Enfrentar los  <strong>problemas</strong></li>
-
+<p align="left">
+    en la programacion en cualquier momento estamos libres que nos suceda algun problema, unos de los problemas comunes en el incio cuando aprendes a programar, sientes que no eres capaz, que no podras seguir programando porque no entiendes aunque puede parecer difícil, la clave está en mantener la constancia y la disciplina, valores esenciales para cualquier programador exitoso, siempre hay que perseverar para alcanzar lo que queremos, porque las mejores empresas de desarrollos son exitosas la respuesta es que siempre son perseverantes en lo que realizan, eso es una clave del exito para avanzar en programacion y lograr lo que todos queremos el <strong>EXITO</strong>
     
-   
-La programación es una habilidad que se fortalece con la práctica constante, aunque sea solo por un corto tiempo.
+</p>
 
    <!-- Comentario invisible -->
 <!-- NUNCA TE RINDAS. -->
