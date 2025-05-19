@@ -111,10 +111,16 @@
 </details>
 
 <details>
-    <summary>4.  divide los  <strong>problemas</strong>dificiles</summary>
+    <summary>4.  divide los  <strong>problemas</strong> dificiles</summary>
     <p align="left">En programación, es fundamental aprender a dividir los problemas difíciles en partes más pequeñas y manejables. Esta técnica permite abordar cada segmento con mayor claridad y precisión, evitando la sensación de frustración o bloqueo.</p>
     <p align="left">Dividir los problemas facilita la concentración en cada etapa, mejora la organización del trabajo y promueve buenas prácticas de programación. Al enfrentar desafíos complejos de forma progresiva, se desarrolla disciplina y perseverancia, valores esenciales para cualquier profesional en el área.</p>
 </details>
+
+<details>
+    <summary>5.  Consulta la documentacion del <strong>lenguaje</strong>  con el que estas <strong>desarrollando</strong></summary>
+    <p align="left"> Usualmente cuando estamos desarrollando algun programa de algun lenguaje de programacion tiramos a olvidar algunas cosas ya que no somos maquinas o robot, veces con la que decimos al princio </p><blackquote>"ash se me olvido como se hacia"</blackquote> <p align="left">ese es el momento en la cual debemos consultar la documentacion del lenguaje en sus paginas oficiales, hacer busqeudas, consultar y/o buscar en sitios para desarrollo como <a href="https://stackoverflow.com" target="_blank" rel="noopener noreferrer">StackOverflow</a> o simplemente haciendo busquedas en google, aqui es donde podemos volver a recordar con una documentacion para recordar lo aprendido o simplemente aprender algo nuevo con la documentacion, que esperas para buscar la documentacion con el lenguaje que estas desarrollando para aprender o recordar!</p>
+</details>
+
 
 
 
@@ -127,9 +133,7 @@
 </ol>
 
     
-<details>
-    ver mas
-</details>
+
 
 
 
