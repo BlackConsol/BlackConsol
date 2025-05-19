@@ -36,6 +36,14 @@
 
 <p>Para instalar, ejecuta <code>npm install</code> en tu consola.</p>
 
+
+<ul>
+  <li>Python</li>
+  <li>Java</li>
+  <li>C++</li>
+</ul>
+
+
     
 </body>
 </html>
