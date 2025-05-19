@@ -117,8 +117,19 @@
 </details>
 
 <details>
-    <summary>5.  Consulta la documentacion del <strong>lenguaje</strong>  con el que estas <strong>desarrollando</strong></summary>
-    <p align="left"> Usualmente cuando estamos desarrollando algun programa de algun lenguaje de programacion tiramos a olvidar algunas cosas ya que no somos maquinas o robot, veces con la que decimos al princio </p><blackquote>"ash se me olvido como se hacia"</blackquote> <p align="left">ese es el momento en la cual debemos consultar la documentacion del lenguaje en sus paginas oficiales, hacer busqeudas, consultar y/o buscar en sitios para desarrollo como <a href="https://stackoverflow.com" target="_blank" rel="noopener noreferrer">StackOverflow</a> o simplemente haciendo busquedas en google, aqui es donde podemos volver a recordar con una documentacion para recordar lo aprendido o simplemente aprender algo nuevo con la documentacion, que esperas para buscar la documentacion con el lenguaje que estas desarrollando para aprender o recordar!</p>
+  <summary>5. Consulta la documentación del <strong>lenguaje</strong> con el que estás <strong>desarrollando</strong></summary>
+  <p align="left">
+    Usualmente, cuando estamos desarrollando algún programa en un lenguaje de programación, tendemos a olvidar ciertas cosas, ya que no somos máquinas ni robots. A veces decimos al principio:
+  </p>
+  <blockquote align="left">"¡Ash, se me olvidó cómo se hacía!"</blockquote>
+  <p align="left">
+    Ese es el momento en el cual debemos consultar la documentación del lenguaje en sus páginas oficiales, hacer búsquedas, consultar y/o buscar en sitios para desarrollo como 
+    <a href="https://stackoverflow.com" target="_blank" rel="noopener noreferrer">StackOverflow</a>, 
+    o simplemente investigando en Google.
+  </p>
+  <p align="left">
+    ¡Allí es donde podemos recordar lo aprendido o incluso aprender algo nuevo! ¿Qué esperas para buscar la documentación del lenguaje que estás utilizando?
+  </p>
 </details>
 
 
