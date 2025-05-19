@@ -187,7 +187,7 @@
 </blockquote>
 
 <p>Para instalar, ejecuta <code>npm install</code> en tu consola.</p>
-<img src="https://skillicons.dev/icons?i=python,java,html,css,c++" />
+<img src="https://skillicons.dev/icons?i=python,java,html,css,cpp" />
 
 <ul>
   <li>Python</li>
