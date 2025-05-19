@@ -169,9 +169,6 @@
         <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" title="Ver en GitHub">
       </a>
     </td>
-
-
-        
     </table>
 </div>
 </br>
