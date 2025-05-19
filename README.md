@@ -70,6 +70,11 @@
   <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white" />  
 </p>
+
+<p align="left">Mi sistema favorito💜</p>
+
+
+
 </br>    
 
 
