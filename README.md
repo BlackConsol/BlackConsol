@@ -158,8 +158,8 @@
 
 <table>
   <tr>
-    <td align="center>
-    <img src="./assets/metodos.webp" alt="Métodos en Java" width="200"><br>
+    <td align="center">
+      <img src="./assets/metodos.webp" width="200"><br>
       <p><strong>Métodos en Java</strong></p>
       <a href="https://github.com/BlackConsol/">
         <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white">
@@ -167,6 +167,7 @@
     </td>
   </tr>
 </table>
+
 
 </div>
 
