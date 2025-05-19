@@ -21,14 +21,21 @@
 
 <br>
 <h1 align="center">Sobre mi 🕵️</h1>
-<p align="left"> 🤖 Ethical hacker</p>
-<p align="left">🎭 Ciberseguridad </p>
+<p align="left"> 🤖 <strong>Ethical hacker</strong> enfocado a buenas practicas para ayudar a las personas</p>
+<p align="left">🎭 Apasionado por la Ciberseguridad </p>
 <p align="left">🛜Redes - Networks</p>
 <p align="left"> <strong>🕵️ Me gusta la recoleccion de fuentes abiertes (Open Source Intelligence) -  OSINT</strong></p>
 <p align="left">🖥️👾Ingenieria en Sistemas</p>
 <p align="left">📌Me gusta programar en Python, C++ y Java</p>
 <p align="left">🐍Mis lenguaje favorito es Python</p>
 </br>
+
+
+<br>
+
+
+
+</br>    
 
 
 <blockquote>
