@@ -169,6 +169,9 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Python%20Essentials%20-Cisco%20Networking%20Academy-blue?logo=python&logoColor=white">
 </p>
+<p align="center">
+    <img src="https://img.shields.io/badge/Redes%20Cisco-Packet%20Tracer%20Certified-blue?logo=cisco&logoColor=white">
+</p>
 
 </br>
 
