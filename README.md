@@ -41,7 +41,7 @@
 <br>
 <h1 align="center">Habilidades tecnicas</h1>
 
-<p align="left">Lenguajes de programaciom</p>
+<p align="left">LENGUAJES DE PROGRAMACION</p>
 
 
 <p align="center">
@@ -50,11 +50,11 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" />
 </p>
 
-<p align="left">Ciberseguridad</p>
+<p align="left">CIBERSEGURIDAD</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/OSINT-Open--source-orange?style=for-the-badge" />
-
     
 </p>
 
