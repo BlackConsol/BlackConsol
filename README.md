@@ -23,9 +23,7 @@
 <p align="left"> 🤖 Ethical hacker</p>
 <p align="left">🎭 Ciberseguridad </p>
 <p align="left">🛜Redes - Networks</p>
-<p align="left"> <strong>🕵️ Me gusta la recoleccion de fuentes abiertes - OSINT</strong></p>
-<p align="left">🕵️ Me especializo en técnicas de <strong>OSINT (Open Source Intelligence)</strong> para investigaciones digitales.</p>
-
+<p align="left"> <strong>🕵️ Me gusta la recoleccion de fuentes abiertes (Open Source Intelligence) -  OSINT</strong></p>
 <p align="left">🖥️👾Ingenieria en Sistemas</p>
 <p align="left">📌Me gusta programar en Python, C++ y Java</p>
 <p align="left">🐍Mis lenguaje favorito es Python</p>
@@ -37,7 +35,7 @@
 </blockquote>
 
 <p>Para instalar, ejecuta <code>npm install</code> en tu consola.</p>
-
+<img src="https://skillicons.dev/icons?i=java" />
 
 <ul>
   <li>Python</li>
