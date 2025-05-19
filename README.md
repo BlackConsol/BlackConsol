@@ -139,7 +139,7 @@
 </details>
 
 
-<p align="left">Que esperas para iniciar un buen habito en programacion!</p>
+<p align="left">Que esperas para iniciar un buen habito en programacion!</p> </br>
 
    <!-- Comentario invisible -->
 <!-- NUNCA TE RINDAS. -->
