@@ -9,6 +9,13 @@
 
 ![DialogFlow](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
 
+
+
+##                                 Mis sistemas operativos favoritos
+
+![DialogFlow](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+
+
 <!--
 
 **BlackConsol/BlackConsol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
