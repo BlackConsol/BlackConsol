@@ -28,7 +28,7 @@
 <p align="left"> <strong>🕵️ Me gusta la recoleccion de fuentes abiertes (Open Source Intelligence) -  OSINT</strong></p>
 <p align="left">🖥️👾Ingenieria en Sistemas</p>
 <p align="left">📌Me gusta programar en Python, C++ y Java</p>
-<p align="left">🐍Mis lenguaje favorito es Python</p>
+<p align="left">🐍Mi lenguaje favorito es Python</p>
 <p align="left">🙋‍♂️Roles en el ámbito: desarrollador junior, líder, cofundador, emprendedor, programador junior y en un futuro quién sabe 🧐 </p>
 
 <div align="center">
@@ -63,8 +63,11 @@
   <img src="https://img.shields.io/badge/Inteligencia_Artificial-5c2d91?style=for-the-badge&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/Redes-0d47a1?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Investigación-8e24aa?style=for-the-badge&logo=academia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco%20Cybersecurity-0074CC?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco%20Cybersecurity-0074CC?style=for-the-badge&logo=cisco&logoColor=white" />  
+</p>
+<p align="left">
   <img src="https://img.shields.io/badge/Wireshark-007ACC?style=for-the-badge&logo=wireshark&logoColor=white" />  
+    
 </p>
 
 
