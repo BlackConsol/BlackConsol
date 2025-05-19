@@ -67,6 +67,7 @@
   <img src="https://img.shields.io/badge/Cisco%20Cybersecurity-0074CC?style=for-the-badge&logo=cisco&logoColor=white" />  
   <img src="https://img.shields.io/badge/Wireshark-007ACC?style=for-the-badge&logo=wireshark&logoColor=white" />  
   <img src="https://img.shields.io/badge/Herramientas%20Avanzadas%20de%20Ciberseguridad-008080?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
 </p>
 </br>    
 
@@ -116,7 +117,7 @@
 
 
 ##                                   Hola todos 👋
-![Dialogflow](https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white) ![DialogFlow](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  	![DialogFlow](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![DialogFlow](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+![Dialogflow](https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white) ![DialogFlow](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  	![DialogFlow](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![DialogFlow]()
 
 ##                                  IDE
 ![DialogFlow](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white) ![DialogFlow](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
