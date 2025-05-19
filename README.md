@@ -157,7 +157,7 @@
     <h2 align="center">Proyectos</h2>
 
 <table>
-  <tr border="none">
+  <tr>
     <td align="center>
     <img src="./assets/metodos.webp" alt="Métodos en Java" width="200"><br>
       <p><strong>Métodos en Java</strong></p>
