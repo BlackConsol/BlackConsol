@@ -168,13 +168,6 @@
 
 </br>
 
-
-<br><br>
-
-
-
-</br>
-
 <br>
 <h2 align="center">👨‍💻 Tecnologias conocidas</h2>
 
