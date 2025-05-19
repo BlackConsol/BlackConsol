@@ -4,9 +4,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BlackConsole</title>
+    
 </head>
 <body>
+
+        <h1 text-align: center;>Sobre mi</h1>
+    <p text-align: center;></p>>Hola bienvenidos a mi perfil de github, aqui encontraras todo sobre mi tambien podras visualizar mis proyectos</p>
+
+
+
+
+
     
 </body>
 </html>
