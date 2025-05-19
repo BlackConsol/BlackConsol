@@ -165,20 +165,6 @@
         <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" title="Ver en GitHub">
       </a>
     </td>
-      <table align="left">
-  <tr border="none">
-    <td align="center"">
-      <img src="./assets/metodos.webp" width="200" title="metodos"><br>
-      <p align="center"><strong>Métodos en Java</strong>
-            <a href="https://github.com/BlackConsol/metodos" title="Ir al recurso">
-        <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" title="Ver en GitHub">
-      </a>  
-        </p>
-    </td>
-  </tr>
-
-</table>
-  </tr>
 </table>
 
 
@@ -187,7 +173,7 @@
 
 </br>
 
-
+</br>
 
 <br>
 <h2 align="center">👨‍💻 Tecnologias conocidas</h2>
