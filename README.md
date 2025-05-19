@@ -14,16 +14,17 @@
 <p align="center">Hola bienvenidos a mi perfil de github, aqui encontraras todo sobre mi tambien podras visualizar mis proyectos</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" width="150"/>
 </p>
 
 </br>
 
 <br>
 <h1 align="center">Sobre mi 🕵️</h1>
-<p align="left"> 🤖 <strong>Ethical hacker</strong> enfocado a buenas practicas para ayudar a las personas</p>
-<p align="left">🎭 Apasionado por la Ciberseguridad </p>
-<p align="left">🛜Redes - Networks</p>
+<p align="left"> 🤖 <strong>Ethical hacker</strong> enfocado a buenas practicas para ayudar a las personas vulneradas en internet</p>
+<p align="left">🎭 Apasionado por la Ciberseguridad con un enfoque <strong>etico</strong></p>
+<p align="left">🛜Redes - Networks me gusta usar herramientas avanzadas para el analisis de redes con WIRESHARK </p>
+<p align="left">🔍 Manejo de herramientas como Nmap para escaneo de red, detección de hosts y análisis de puertos.</p>
 <p align="left"> <strong>🕵️ Me gusta la recoleccion de fuentes abiertes (Open Source Intelligence) -  OSINT</strong></p>
 <p align="left">🖥️👾Ingenieria en Sistemas</p>
 <p align="left">📌Me gusta programar en Python, C++ y Java</p>
