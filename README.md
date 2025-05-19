@@ -88,28 +88,26 @@
 
 <p align="left">El aprendizaje se fundamenta en la práctica constante y el entrenamiento diario. Mantenerse firme en este proceso es esencial, pues rendirse no es una opción cuando se persigue la excelencia. La perseverancia diaria fortalece las habilidades y el carácter, convirtiendo el esfuerzo en éxito tangible.</p>
 <p align="left">Para ello debes establecer una rutina y hoy estoy para eso para poderte guiar con una rutina que me ha servido mucho</p>
+
 <details>
-  <summary>Pasos para no rendirse aprendiendo programación</summary>
-  <ol>
-    <li>
-      <strong>Establece objetivos claros y específicos</strong>
-      <p align="left">
-        Establecer una meta con la que deseas aprender, ya sea una nueva habilidad o un nuevo lenguaje de programación, servirá para saber qué queremos alcanzar. Crea proyectos donde cada vez subas el nivel para aprender más o simplemente aplicar lo aprendido.
-      </p>
-    </li>
-    <li>
-      <strong>Practicar todos los días</strong>
-      <p align="left">
-        Es importante en cualquier ámbito, ya sea programación u otros campos. Toda habilidad se mejora a base de la práctica. En la programación, esta se fortalece con la práctica constante, aunque sea por un tiempo corto. Esto ayuda a mantener el cerebro activo para no olvidar lo aprendido.
-      </p>
-    </li>
-    <li>
-      <strong>Enfrentar los problemas</strong>
-      <p align="left">
-        En la programación, en cualquier momento pueden surgir problemas. Uno de los problemas comunes al inicio, cuando aprendes, es sentir que no eres capaz o que no podrás continuar porque no entiendes. Aunque puede parecer difícil, la clave está en mantener la constancia y la disciplina, valores esenciales para cualquier programador exitoso. Siempre hay que perseverar para alcanzar lo que queremos, porque las mejores empresas de desarrollo son exitosas gracias a su perseverancia. Esa es la clave para avanzar en programación y lograr lo que todos buscamos: el <strong>ÉXITO</strong>.
-      </p>
-    </li>
-  </ol>
+  <summary><strong>Establece objetivos claros y específicos</strong></summary>
+  <p align="left">
+    Establecer una meta con la que deseas aprender, ya sea una nueva habilidad o un nuevo lenguaje de programación, servirá para saber qué queremos alcanzar. Crea proyectos donde cada vez subas el nivel para aprender más o simplemente aplicar lo aprendido.
+  </p>
+</details>
+
+<details>
+  <summary><strong>Practicar todos los días</strong></summary>
+  <p align="left">
+    Es importante en cualquier ámbito, ya sea programación u otros campos. Toda habilidad se mejora a base de la práctica. En la programación, esta se fortalece con la práctica constante, aunque sea por un tiempo corto. Esto ayuda a mantener el cerebro activo para no olvidar lo aprendido.
+  </p>
+</details>
+
+<details>
+  <summary><strong>Enfrentar los problemas</strong></summary>
+  <p align="left">
+    En la programación, en cualquier momento pueden surgir problemas. Uno de los problemas comunes al inicio, cuando aprendes, es sentir que no eres capaz o que no podrás continuar porque no entiendes. Aunque puede parecer difícil, la clave está en mantener la constancia y la disciplina, valores esenciales para cualquier programador exitoso. Siempre hay que perseverar para alcanzar lo que queremos, porque las mejores empresas de desarrollo son exitosas gracias a su perseverancia. Esa es la clave para avanzar en programación y lograr lo que todos buscamos: el <strong>ÉXITO</strong>.
+  </p>
 </details>
 
    <!-- Comentario invisible -->
