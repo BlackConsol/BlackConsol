@@ -41,15 +41,26 @@
 <br>
 <h1 align="center">Habilidades tecnicas</h1>
 
-<p align="center"> Mis habilidades en lenguajes de programacion</p>
+<p align="left">Lenguajes de programacion</p>
 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
+
+<p align="left">Ciberseguridad</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/OSINT-Informacion--abierta-orange?style=for-the-badge" />
+
+    
+</p>
+
+
+
+
 
 
 
