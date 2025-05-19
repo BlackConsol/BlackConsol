@@ -90,21 +90,21 @@
 <p align="left">Para ello debes establecer una rutina y hoy estoy para eso para poderte guiar con una rutina que me ha servido mucho</p>
 
 <details>
-  <summary>1<strong>Establece objetivos claros y específicos</strong></summary>
+  <summary>1. <strong>Establece objetivos claros y específicos</strong></summary>
   <p align="left">
     Establecer una meta con la que deseas aprender, ya sea una nueva habilidad o un nuevo lenguaje de programación, servirá para saber qué queremos alcanzar. Crea proyectos donde cada vez subas el nivel para aprender más o simplemente aplicar lo aprendido.
   </p>
 </details>
 
 <details>
-  <summary>2<strong>Practicar todos los días</strong></summary>
+  <summary>2. <strong>Practicar todos los días</strong></summary>
   <p align="left">
     Es importante en cualquier ámbito, ya sea programación u otros campos. Toda habilidad se mejora a base de la práctica. En la programación, esta se fortalece con la práctica constante, aunque sea por un tiempo corto. Esto ayuda a mantener el cerebro activo para no olvidar lo aprendido.
   </p>
 </details>
 
 <details>
-  <summary>3<strong>Enfrentar los problemas</strong></summary>
+  <summary>3. <strong>Enfrentar los problemas</strong></summary>
   <p align="left">
     En la programación, en cualquier momento pueden surgir problemas. Uno de los problemas comunes al inicio, cuando aprendes, es sentir que no eres capaz o que no podrás continuar porque no entiendes. Aunque puede parecer difícil, la clave está en mantener la constancia y la disciplina, valores esenciales para cualquier programador exitoso. Siempre hay que perseverar para alcanzar lo que queremos, porque las mejores empresas de desarrollo son exitosas gracias a su perseverancia. Esa es la clave para avanzar en programación y lograr lo que todos buscamos: el <strong>ÉXITO</strong>.
   </p>
