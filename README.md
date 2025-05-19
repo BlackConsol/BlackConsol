@@ -154,8 +154,7 @@
 <div id="pro">
     <h2 align="center">Proyectos</h2>
     <table align="left">
-        <tr>
-    <td width="25%" align="center"">
+    <td align="center"">
       <img src="./assets/metodos.webp" width="200" title="metodos"><br>
       <p><strong>Métodos en Java</strong></p>
       <a href="https://github.com/BlackConsol/metodos" title="Ir al recurso">
