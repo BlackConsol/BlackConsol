@@ -11,6 +11,7 @@
 <br>
 <h1 align="center">Hola 👋  soy BlackConsole / Aka. 0087x86 🕵️ </h1> 
 <p align="center"></p>Hola bienvenidos a mi perfil de github, aqui encontraras todo sobre mi tambien podras visualizar mis proyectos</p>
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0A0A0A?style=for-the-badge&logo=protonmail&logoColor=white)
 </br>
 
 <br>
@@ -22,15 +23,6 @@
 <p align="left">🖥️👾Ingenieria en Sistemas</p>
 <p align="left">📌Me gusta programar en Python, C++ y Java</p>
 <p align="left">🐍Mis lenguaje favorito es Python</p>
-
-
-
-
-
-
-
-
-</p>
 </br>
 
 
