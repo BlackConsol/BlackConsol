@@ -151,22 +151,18 @@
 </br>
 
 <br>
-  <div id="proyectos">
-  <h2 align="center">Proyectos</h2>
-  <table align="left">
-    <tr>
-      <td align="center">
-        <img src="./assets/metodos.webp" width="200" title="Métodos en Java" alt="Imagen de métodos en Java"><br>
-        <strong>Métodos en Java</strong><br><br>
-        <a href="https://github.com/BlackConsol/metodos" title="Ir al recurso">
-          <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" title="Ver en GitHub" alt="Enlace a GitHub">
-        </a>
-      </td>
-    </tr>
-  </table>
+<div id="Proyectos">
+<h2 align="center"></h2>
+
+
+    
 </div>
 
 </br>
+
+
+
+
 
 <br>
 <h2 align="center">👨‍💻 Tecnologias conocidas</h2>
