@@ -231,6 +231,16 @@
 ![DialogFlow](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 
+
+
+
+<p align="center">
+  Hecho con ❤️ por BlackConsole / Aka. 0087x86 🕵️  
+  <br>
+  📬 Contacto: <a href="mailto:tuemail@ejemplo.com">tuemail@ejemplo.com</a>
+  <br><br>
+  “La seguridad no es un producto, sino un proceso.” — Bruce Schneier
+</p>
 <!--
 
 **BlackConsol/BlackConsol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
