@@ -39,7 +39,7 @@
 
 
 <br>
-<h1 align="center">Habilidades tecnicas</h1>
+<h1 align="center">Habilidades Tecnicas</h1>
 
 <p align="left">LENGUAJES DE PROGRAMACION y ETIQUETAS</p>
 
@@ -66,19 +66,6 @@
   <img src="https://img.shields.io/badge/Cisco%20Cybersecurity-0074CC?style=for-the-badge&logo=cisco&logoColor=white" />  
   <img src="https://img.shields.io/badge/Wireshark-007ACC?style=for-the-badge&logo=wireshark&logoColor=white" />  
   <img src="https://img.shields.io/badge/Herramientas%20Avanzadas%20de%20Ciberseguridad-008080?style=for-the-badge&logo=securityscorecard&logoColor=white" />
-
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Wireshark-007ACC?style=for-the-badge&logo=wireshark&logoColor=white" />  
-    
-</p>
-
-
-
-
-
-
-
 </br>    
 
 
