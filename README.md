@@ -74,7 +74,7 @@
 <p align="left">📍 Mi sistema favorito 💜</p>
 
 <p align="left">
-   <img src="https://img.shields.io/badge/Kali%20Linux-6F42C1?style=for-the-badge&logo=kali-linux&logoColor=white">
+   <img src="https://img.shields.io/badge/Kali%20Linux-6F42C1?style=for-the-badge&logo=kali-linux&logoColor=white" width="250" />
 
 </p>
 
