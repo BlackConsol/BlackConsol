@@ -132,8 +132,14 @@
   </p>
 </details>
 
+<details>
+    <summary>6. Participa en comunidades de programacion | tutoriales</summary>
+    <p align="left">Unas de las mejores formas de aprender programacion es participar en comunidades de prograamacion, comunidades donde se enfocan a enseñar, donde explican formas, conceptos, tecnicas o hasta guias de aprendizaje desde 0, te preguntaras ahora mismo ¿En donde puedo encontrar esas comunidades? bueno es una gran pregunta para responder, algunas formas de encontrar comunidades es viendo tutoriales de programacion algunas veces creadores de contenido enfocados a la progrmacion o en algun otor ambito tienen sus comunidades alojadas en algunas red sociales como en <strong>Discord</strong>  o comunidades de hacking etico que se alojan en diferentes redes sociales en la cual no mencionare.</p>
+    <p align="left">Ahora para los tutoriales es tambien otras de las formas para lograr aprender algo nuevo y esto combinado practicando lograras entender nuevos conocimientos, practicar y ver tutoriales es la mejor forma de lograr aprender o comprender algo!</p>
+</details>
 
 
+<p align="left">Que esperas para iniciar un buen habito en programacion!</p>
 
    <!-- Comentario invisible -->
 <!-- NUNCA TE RINDAS. -->
