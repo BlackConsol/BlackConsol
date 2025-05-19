@@ -91,7 +91,11 @@
     <li>Establece<strong> objetivos</strong> claros y especificos</li>
     <p align="left">Establecer una meta con la que deseas aprender ya sea una nueva habilidad, un nuevo lenguaje de programacion, esto servira para saber que queremos llegar o que queremos llegar, crea proyectos donde cada vez subiras el nivel para poder aprender mas o simplemente aplicar lo aprendido</p>
 
-    <!-- NUNCA TE RINDAS.--->
+   <!-- Comentario invisible -->
+<!-- NUNCA TE RINDAS. -->
+
+<!-- Texto visible y centrado -->
+<p align="center">🚀 NUNCA TE RINDAS. 💪</p>
     
 </ol>
 
