@@ -29,7 +29,7 @@
 <p align="left">🖥️👾Ingenieria en Sistemas</p>
 <p align="left">📌Me gusta programar en Python, C++ y Java</p>
 <p align="left">🐍Mis lenguaje favorito es Python</p>
-<p align="left">🙋‍♂️roles en el ámbito: desarrollador junior, líder, cofundador, emprendedor, programador juniorm y en un futuro quién sabe </p>
+<p align="left">🙋‍♂️roles en el ámbito: desarrollador junior, líder, cofundador, emprendedor, programador junior y en un futuro quién sabe 🧐 </p>
 
 <div align="center">
 
