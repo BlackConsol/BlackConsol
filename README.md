@@ -77,8 +77,9 @@
 
 <br>
 <h1 align="center">Mi coleccion de Badges</h1>
+<p align="center">
   <img src="https://img.shields.io/badge/Introduction%20to%20Cybersecurity-0074CC?style=for-the-badge&logo=cisco&logoColor=white" />  
-
+</p>
 
 </br>
 
