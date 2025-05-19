@@ -13,15 +13,9 @@
 <p align="center"></p>Hola bienvenidos a mi perfil de github, aqui encontraras todo sobre mi tambien podras visualizar mis proyectos</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-0A0A0A?style=for-the-badge&logo=protonmail&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-
-    
 </p>
 
-
-![DialogFlow](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![DialogFlow](https://img.shields.io/badge/Cybersecurity-0A0A0A?style=for-the-badge&logo=protonmail&logoColor=white)
 </br>
 
 <br>
