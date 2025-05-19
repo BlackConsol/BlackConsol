@@ -88,7 +88,7 @@
 <p align="left">El aprendizaje se fundamenta en la práctica constante y el entrenamiento diario. Mantenerse firme en este proceso es esencial, pues rendirse no es una opción cuando se persigue la excelencia. La perseverancia diaria fortalece las habilidades y el carácter, convirtiendo el esfuerzo en éxito tangible.</p>
 <p align="left">Para ello debes establecer una rutina y hoy estoy para eso para poderte guiar con una rutina que me ha servido mucho</p>
 <ol>
-    <li>Establece objetivos claros y especificos</li>
+    <li>Establece<strong>objetivos</strong> claros y especificos</li>
     <p align="left">Establecer una meta con la que deseas aprender ya sea una nueva habilidad, un nuevo lenguaje de programacion, esto servira para saber que queremos llegar o que queremos llegar, crea proyectos donde cada vez subiras el nivel para poder aprender mas o simplemente aplicar lo aprendido</p>
 
     <!-- NUNCA TE RINDAS.--->
