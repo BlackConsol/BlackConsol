@@ -90,6 +90,16 @@
 <ol>
     <li>Establece<strong> objetivos</strong> claros y especificos</li>
     <p align="left">Establecer una meta con la que deseas aprender ya sea una nueva habilidad, un nuevo lenguaje de programacion, esto servira para saber que queremos llegar o que queremos llegar, crea proyectos donde cada vez subiras el nivel para poder aprender mas o simplemente aplicar lo aprendido</p>
+    <li>Practicar todos los dias</li>
+    <p align="left">
+        Es importante en cualquier ambito ya sea programacion o en otros campos, toda habilidad se mejora a base de la practica, en la programacion es una de esas habilidades en las cuales se fortalece es con la practica constante, aunque sea por un tiempo corto esto ayudara a mantener el celebro activo para que no olvide lo aprendido.     
+    </p>
+
+<li>Enfrentar los  <strong>problemas</strong></li>
+
+    
+   
+La programación es una habilidad que se fortalece con la práctica constante, aunque sea solo por un corto tiempo.
 
    <!-- Comentario invisible -->
 <!-- NUNCA TE RINDAS. -->
