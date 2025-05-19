@@ -231,32 +231,6 @@
 
 
 
-
-
-
-
-
-##                                   Hola todos 👋
-![Dialogflow](https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white) ![DialogFlow](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  	![DialogFlow](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![DialogFlow]()
-
-##                                  IDE
-![DialogFlow](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white) ![DialogFlow](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-
-##                                  Buscadores
-
-![DialogFlow](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
-
-
-
-##                                 Mis sistemas operativos favoritos
-
-![DialogFlow](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-
-
-
-
-
 <p align="center">
   Hecho con ❤️ por BlackConsole / Aka. 007x86 🕵️  
   <br>
