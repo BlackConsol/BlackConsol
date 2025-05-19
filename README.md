@@ -151,26 +151,25 @@
 </br>
 
 <br>
+
 <div id="pro">
-    <h2 align="center">Proyectos</h2>
-    <table align="left">
-        <tr>
-        <td align="center">
-            <p align="center">
-                      <img src="./assets/metodos.webp" width="200" title="metodos"><br>
-                <p><strong>Métodos en Java</strong></p>
-      <a href="https://github.com/BlackConsol/metodos" title="Ir al recurso">
-        <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" title="Ver en GitHub">
-      </a>
-            </p>
-        </tr>
-        </td>
-    </table>
-
-
-
+  <h2 align="center">Proyectos</h2>
+  <table align="left">
+    <tr>
+      <td align="center">
+        <img src="./assets/metodos.webp" width="200" title="Métodos en Java" alt="Imagen del proyecto Métodos"><br>
+        <strong>Métodos en Java</strong><br><br>
+        <a href="https://github.com/BlackConsol/metodos" title="Ir al recurso">
+          <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" 
+               alt="Ver en GitHub" title="Ver en GitHub">
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
-</br>
+
+<br><br>
+
 
 
 </br>
