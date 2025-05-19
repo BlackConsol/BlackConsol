@@ -83,6 +83,17 @@
 </br>    
 
 
+<br>
+<h1 align="center">Aprendizaje</h1>
+<p align="left">El aprendizaje se fundamenta en la práctica constante y el entrenamiento diario. Mantenerse firme en este proceso es esencial, pues rendirse no es una opción cuando se persigue la excelencia. La perseverancia diaria fortalece las habilidades y el carácter, convirtiendo el esfuerzo en éxito tangible.</p>
+
+
+
+</br>
+
+
+
+
 
 
 <br>
