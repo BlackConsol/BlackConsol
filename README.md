@@ -152,10 +152,17 @@
     
 </br>
 
+<br>
+<div id="pro">
+    <h2 align="center">Proyectos</h2>
+
+
+
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" width="200"><br><br>
+      <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" width="200"><br>
+      <p><strong>Métodos en Java</strong></p>
       <a href="https://youtube.com/watch?v=dQw4w9WgXcQ">
         <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
       </a>
@@ -166,6 +173,11 @@
   </tr>
 </table>
 
+</div>
+
+
+
+</br>
 
 
 
