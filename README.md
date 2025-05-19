@@ -41,7 +41,7 @@
 <br>
 <h1 align="center">Habilidades tecnicas</h1>
 
-<p align="left">Lenguajes de programacion</p>
+<p align="left">Lenguajes de programaciom</p>
 
 
 <p align="center">
