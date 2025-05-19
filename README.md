@@ -152,6 +152,21 @@
     
 </br>
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" width="200"><br><br>
+      <a href="https://youtube.com/watch?v=dQw4w9WgXcQ">
+        <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+      </a>
+      <a href="https://github.com/usuario/proyecto-ejemplo">
+        <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 
 
 <br>
