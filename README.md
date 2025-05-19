@@ -91,7 +91,7 @@
     <li>Establece objetivos claros y especificos</li>
     <p align="left">Establecer una meta con la que deseas aprender ya sea una nueva habilidad, un nuevo lenguaje de programacion, esto servira para saber que queremos llegar o que queremos llegar, crea proyectos donde cada vez subiras el nivel para poder aprender mas o simplemente aplicar lo aprendido</p>
 
-    <!-- Establece metas concretas como aprender un lenguaje, desarrollar un proyecto o resolver problemas diarios.--->
+    <!-- NUNCA TE RINDAS.--->
     
 </ol>
 
