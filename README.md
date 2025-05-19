@@ -14,7 +14,7 @@
 </br>
 
 <br>
-<h1 align="right">Sobre mi 🕵️</h1>
+<h1 align="center">Sobre mi 🕵️</h1>
 <p align="left"> 🤖 Ethical Hacker </p>
 <p align="left">🎭 Ciberseguridad </p>
 <p align="left">🛜Redes - Networks</p>
