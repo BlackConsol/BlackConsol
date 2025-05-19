@@ -10,7 +10,7 @@
 
 <br>
 <!--Intro start-->
-<h1 align="center">Hola 👋  soy BlackConsole / Aka. 0087x86 🕵️ </h1> 
+<h1 align="center">Hola 👋  soy BlackConsole / Aka. 007x86 🕵️ </h1> 
 <p align="center">Hola bienvenidos a mi perfil de github, aqui encontraras todo sobre mi tambien podras visualizar mis proyectos</p>
 
 <p align="center">
@@ -235,12 +235,15 @@
 
 
 <p align="center">
-  Hecho con ❤️ por BlackConsole / Aka. 0087x86 🕵️  
+  Hecho con ❤️ por BlackConsole / Aka. 007x86 🕵️  
   <br>
-  📬 Contacto: <a href="mailto:tuemail@ejemplo.com">tuemail@ejemplo.com</a>
   <br><br>
-  “La seguridad no es un producto, sino un proceso.” — Bruce Schneier
+  rendirse no es una opcion - Aka. 007x86
 </p>
+<p align="center">
+  🚀 ¡Gracias por visitar mi perfil!
+</p>
+
 <!--
 
 **BlackConsol/BlackConsol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
