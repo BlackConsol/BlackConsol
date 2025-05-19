@@ -16,9 +16,10 @@
 <br>
 <h1 align="center">Sobre mi 🕵️</h1>
 <p align="left"> 
-
 🤖 Analista Junior de Ciberseguridad
-<span color="red">🕵️ Me gusta la recoleccion de fuentes abiertes - OSINT<span> 
+</p>
+<p align="left"> <strong>🕵️ Me gusta la recoleccion de fuentes abiertes - OSINT</strong></p>
+
 
 
 
