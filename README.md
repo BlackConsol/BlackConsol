@@ -41,7 +41,7 @@
 <br>
 <h1 align="center">Habilidades Tecnicas</h1>
 
-<p align="left">LENGUAJES DE PROGRAMACION y ETIQUETAS</p>
+<p align="left">👨‍💻 Lenguajes de Programacion y Etiquetas</p>
 
 
 <p align="left">
@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />  
 </p>
 
-<p align="left">CIBERSEGURIDAD</p>
+<p align="left">👾 Ciberseguridad</p>
 
 <p align="left" width="300">
   <img src="https://img.shields.io/badge/Ethical_Hacking-gray?style=for-the-badge&logo=kalilinux&logoColor=white" />   
@@ -71,7 +71,8 @@
   <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white" />  
 </p>
 
-<p align="left">Mi sistema favorito💜</p>
+<p align="left">📍 Mi sistema favorito 💜</p>
+  <img src="https://img.shields.io/badge/Kali%20Linux-6F42C1?style=for-the-badge&logo=kali-linux&logoColor=white">
 
 
 
