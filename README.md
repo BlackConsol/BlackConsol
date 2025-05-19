@@ -104,11 +104,19 @@
 </details>
 
 <details>
-  <summary>3. <strong>Enfrentar los problemas</strong></summary>
+  <summary>3. <strong>Enfrentar los problemas con paciencia</strong></summary>
   <p align="left">
     En la programación, en cualquier momento pueden surgir problemas. Uno de los problemas comunes al inicio, cuando aprendes, es sentir que no eres capaz o que no podrás continuar porque no entiendes. Aunque puede parecer difícil, la clave está en mantener la constancia y la disciplina, valores esenciales para cualquier programador exitoso. Siempre hay que perseverar para alcanzar lo que queremos, porque las mejores empresas de desarrollo son exitosas gracias a su perseverancia. Esa es la clave para avanzar en programación y lograr lo que todos buscamos: el <strong>ÉXITO</strong>.
   </p>
 </details>
+
+<details>
+    <summary>4.  divide los  <strong>problemas</strong>dificiles</summary>
+    <p align="left">En programación, es fundamental aprender a dividir los problemas difíciles en partes más pequeñas y manejables. Esta técnica permite abordar cada segmento con mayor claridad y precisión, evitando la sensación de frustración o bloqueo.</p>
+    <p align="left">Dividir los problemas facilita la concentración en cada etapa, mejora la organización del trabajo y promueve buenas prácticas de programación. Al enfrentar desafíos complejos de forma progresiva, se desarrolla disciplina y perseverancia, valores esenciales para cualquier profesional en el área.</p>
+</details>
+
+
 
    <!-- Comentario invisible -->
 <!-- NUNCA TE RINDAS. -->
