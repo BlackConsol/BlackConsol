@@ -166,6 +166,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Introduction%20to%20Cybersecurity-0074CC?style=for-the-badge&logo=cisco&logoColor=white" />  
 </p>
+<p align="center">
+    <img src="https://images.credly.com/size/340x340/images/0b5d3c9a-1c3e-4d3e-8a3e-5a1f1f1f1f1f/image.png" />
+</p>
 
 </br>
 
