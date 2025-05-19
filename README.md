@@ -156,7 +156,7 @@
 <div id="pro">
     <h2 align="center">Proyectos</h2>
 
-<table>
+<table align="left">
   <tr>
     <td align="center">
       <img src="./assets/metodos.webp" width="200" title="metodos"><br>
@@ -166,20 +166,37 @@
       </a>
     </td>
   </tr>
-        <td align="center">
+    <table align="left">
+  <tr border="none">
+    <td width="25%" align="center"">
       <img src="./assets/metodos.webp" width="200" title="metodos"><br>
-      <p><strong>Métodos en Java</strong></p>
-      <a href="https://github.com/BlackConsol/metodos" title="Ir al recurso">
+      <p align="center"><strong>Métodos en Java</strong>
+            <a href="https://github.com/BlackConsol/metodos" title="Ir al recurso">
         <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" title="Ver en GitHub">
-      </a>
+      </a>  
+        </p>
     </td>
   </tr>
+
+</table>
 </table>
 
 
 </div>
 
+<table align="left">
+  <tr border="none">
+    <td width="25%" align="center"">
+      <img src="./assets/metodos.webp" width="200" title="metodos"><br>
+      <p align="center"><strong>Métodos en Java</strong>
+            <a href="https://github.com/BlackConsol/metodos" title="Ir al recurso">
+        <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" title="Ver en GitHub">
+      </a>  
+        </p>
+    </td>
+  </tr>
 
+</table>
 
 </br>
 
