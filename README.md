@@ -9,7 +9,7 @@
 <body>
 
 <h1 align="center">Hola 👋  soy BlackConsole / Aka. 0087x86 🕵️ </h1> 
-<p text-align: center;></p>>Hola bienvenidos a mi perfil de github, aqui encontraras todo sobre mi tambien podras visualizar mis proyectos</p>
+<p align= "left"></p>Hola bienvenidos a mi perfil de github, aqui encontraras todo sobre mi tambien podras visualizar mis proyectos</p>
 
 
 
