@@ -158,7 +158,7 @@
 
 <table>
   <tr border="none">
-    <td width="25%" align="center>
+    <td align="center>
     <img src="./assets/metodos.webp" alt="Métodos en Java" width="200"><br>
       <p><strong>Métodos en Java</strong></p>
       <a href="https://github.com/BlackConsol/">
