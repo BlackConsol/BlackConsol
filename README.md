@@ -34,6 +34,7 @@
   “La seguridad no es un producto, sino un proceso.” — Bruce Schneier
 </blockquote>
 
+<p>Para instalar, ejecuta <code>npm install</code> en tu consola.</p>
 
     
 </body>
