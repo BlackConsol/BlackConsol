@@ -65,6 +65,7 @@
   <img src="https://img.shields.io/badge/Investigación-8e24aa?style=for-the-badge&logo=academia&logoColor=white" />
   <img src="https://img.shields.io/badge/Cisco%20Cybersecurity-0074CC?style=for-the-badge&logo=cisco&logoColor=white" />  
   <img src="https://img.shields.io/badge/Wireshark-007ACC?style=for-the-badge&logo=wireshark&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Herramientas%20Avanzadas%20de%20Ciberseguridad-008080?style=for-the-badge&logo=securityscorecard&logoColor=white" />
 
 </p>
 <p align="left">
