@@ -152,6 +152,7 @@
 
 <br>
 <div id="pro">
+    <h2 align="center">Proyectos</h2>
     <table>
     <td align="center">
       <img src="./assets/metodos.webp" width="200" title="metodos"><br>
