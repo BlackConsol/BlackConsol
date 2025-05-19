@@ -148,17 +148,25 @@
 <p align="center">🚀 NUNCA TE RINDAS. 💪</p>
     
 </ol>
-
-    
 </br>
 
 <br>
+<div id-"proyectos">
+<h2 align="center"></h2>
+
+
+
+
+</div>
 
 
 
 </br>
 
+
 </br>
+
+
 
 <br>
 <h2 align="center">👨‍💻 Tecnologias conocidas</h2>
