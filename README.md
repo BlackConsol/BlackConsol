@@ -13,6 +13,23 @@
 <p align= "left"></p>Hola bienvenidos a mi perfil de github, aqui encontraras todo sobre mi tambien podras visualizar mis proyectos</p>
 </br>
 
+<br>
+<h1 align="center">Sobre mi 🕵️</h1>
+<p align="left"> 
+
+🤖 Analista Junior de Ciberseguridad
+<span color="red">🕵️ Me gusta la recoleccion de fuentes abiertes - OSINT<span> 
+
+
+
+
+
+</p>
+</br>
+
+
+
+
 
     
 </body>
