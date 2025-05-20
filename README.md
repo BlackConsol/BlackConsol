@@ -156,7 +156,13 @@
     <table align="left">
     <tr>
         <td align="center">
-            <p align="center">hola</p>
+            <p align="center">
+            <img src="./assets/metodos.webp" width="200" title="Métodos en Java" alt="Imagen de métodos en Java" />
+                <strong>Métodos en Java</strong>
+                <a href="https://github.com/BlackConsol/metodos" title="Ir al recurso" >
+                <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" title="Ver en GitHub" alt="Enlace a GitHub" />
+                </a>
+            </p>
         </td>
     </tr>
 </table>
