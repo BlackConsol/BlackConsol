@@ -153,7 +153,7 @@
 <br>
 <div id="Proyectos">
 <h2 align="center">Proyectos</h2>
-    <table>
+    <table align="left">
   <tr>
     <td align="center">
       <img src="./assets/metodos.webp" width="200"><br>
