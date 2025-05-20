@@ -158,11 +158,8 @@
     <td align="center">
       <img src="./assets/metodos.webp" width="200"><br>
       <p><strong>Métodos en Java</strong></p>
-      <a href="https://youtube.com/watch?v=TU_ENLACE_YOUTUBE">
-        <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-      </a>
-      <a href="https://github.com/usuario/proyecto-metodos-java">
-        <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white">
+      <a href="https://github.com/BlackConsol/metodos" title="ir al recurso">
+        <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" title="Ver en GitHub" alt="Enlace a GitHub">
       </a>
     </td>
   </tr>
