@@ -21,7 +21,7 @@
 
 <br>
 <h1 align="center">Sobre mi 🕵️</h1>
-<p align="left"> 🤖 <strong>Ethical hacker</strong> enfocado a buenas practicas para ayudar a las personas vulneradas en internet</p>
+<p align="left"> 🤖 <strong>Ethical hacker Jr.</strong> enfocado a buenas practicas para ayudar a las personas vulneradas en internet</p>
 <p align="left">🎭 Apasionado por la Ciberseguridad con un enfoque <strong>etico</strong></p>
 <p align="left">🛜Redes - Networks me gusta usar herramientas avanzadas para el analisis de redes con WIRESHARK </p>
 <p align="left">🔍 Manejo de herramientas como Nmap para escaneo de red, detección de hosts y análisis de puertos.</p>
